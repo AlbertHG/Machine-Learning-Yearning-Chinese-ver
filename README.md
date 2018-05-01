@@ -29,46 +29,50 @@
 
 在本书中，你将学习多达50多个NG多年总结的工程要领：
 
-[1、为什么需要机器学习策略](chapter1.md)
+[1、为什么需要机器学习策略](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter1.md)
 
-[2、如何利用本书帮助你的团队](chapter2.md)
+[2、如何利用本书帮助你的团队](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter2.md)
 
-[3、预备知识和符号约定](chapter3.md)
+[3、预备知识和符号约定](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter3.md)
 
-[4、规模化驱动下的机器学习发展](chapter4.md)
+[4、规模化驱动下的机器学习发展](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter4.md)
 
-[5、你的开发集和测试集](chapter5.md)
+[5、你的开发集和测试集](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter5.md)
 
-[6、发集和测试集应当服从同一分布](chapter6.md)
+[6、发集和测试集应当服从同一分布](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter6.md)
 
-[7、开发集/测试集多大合适](chapter7.md)
+[7、开发集/测试集多大合适](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter7.md)
 
-[8、为团队进行算法优化建立单一数字评估指标](chapter8.md)
+[8、为团队进行算法优化建立单一数字评估指标](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter8.md)
 
-[9、优化和满足指标](chapter9.md)
+[9、优化和满足指标](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter9.md)
 
-[10、使用开发集和评估指标加速迭代](chapter10.md)
+[10、使用开发集和评估指标加速迭代](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter10.md)
 
-[11、何时更改开发/训练集和评估指标](chapter11.md)
+[11、何时更改开发/训练集和评估指标](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter11.md)
 
-[12、小结：设置开发和测试集](chapter12.md)
+[12、小结：设置开发和测试集](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter12.md)
 
-[13、快速搭建第一个系统并开始迭代](chapter13.md)
+[13、快速搭建第一个系统并开始迭代](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter13.md)
 
-[14、误差分析：查看开发集样本来评估想法](chapter14.md)
+[14、误差分析：查看开发集样本来评估想法](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter14.md)
 
-[15、在误差分析中并行评估多个想法](chapter15.md)
+[15、在误差分析中并行评估多个想法](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter15.md)
 
-[16、清除标注错误的开发/测试集数据](chapter16.md)
+[16、清除标注错误的开发/测试集数据](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter16.md)
 
-[17、 如果你有一个很大的开发集，拆分为两半，并只关注其中一个](chapter17.md)
+[17、 如果你有一个很大的开发集，拆分为两半，并只关注其中一个](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter17.md)
 
-[18、眼球开发集和黑盒开发集应该多大](chapter18.md)
+[18、眼球开发集和黑盒开发集应该多大](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter18.md)
 
-[19、小结：基本误差分析](chapter19.md)
+[19、小结：基本误差分析](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter19.md)
 
 🚧🚧🚧未完待续！！
 
 ## 英文原稿
 
 当前更新到19节，详见目录"Machine Learning Yearning-Draft"
+
+### 备注
+
+- GitHub的README.md文件不提供LaTeX公式解析，可使用chrome浏览器插件[GitHub with MathJax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima)
