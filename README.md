@@ -73,6 +73,10 @@
 
 当前更新到19节，详见目录"Machine Learning Yearning-Draft"
 
+License
+-------
+[Apache License, Version 2.0, January 2004][license]
+
 ### 备注
 
 - GitHub的README.md文件不提供LaTeX公式解析，可使用chrome浏览器插件[GitHub with MathJax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima)
