@@ -1,10 +1,14 @@
 # Machine Learning Yearning
 
-官网：[http://www.mlyearning.org/](http://www.mlyearning.org/)
+本项目是Andrew NG的关于机器学习策略的工具书的中文翻译！
+
+*欢迎Star*
 
 更好的阅读体验，请移步本人博客：[黄钢的博客](https://alberthg.github.io/tags/#maching%20learning%20yearning)
 
 关于本书的英文原稿，NG还没有完全出完全，目前更新到第19节。
+
+官网传送门：[http://www.mlyearning.org/](http://www.mlyearning.org/)
 
 目的
 -------
@@ -25,6 +29,8 @@
 - 20-？：未面世！
 
 翻译的水平有限(如有错误，请指出)，而且有些地方是在经过自己的理解之后并尽量遵照原文进行翻译，只是希望尽可能的读起来通顺。
+
+
 
 翻译稿
 -------
