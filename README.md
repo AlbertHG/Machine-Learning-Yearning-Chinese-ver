@@ -4,7 +4,7 @@
 
 *欢迎Star*
 
-更好的阅读体验，请移步本人博客：[黄钢的博客](https://alberthg.github.io/tags/#maching%20learning%20yearning)
+更好的阅读体验，请移步本人博客：[博客传送门](https://alberthg.github.io/tags/#maching%20learning%20yearning)
 
 关于本书的英文原稿，NG还没有完全出完全，目前更新到第19节。
 
