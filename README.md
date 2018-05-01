@@ -79,7 +79,7 @@
 License
 -------
 
-[知识共享署名-相同方式共享 4.0 国际许可协议（CC BY-SA 4.0）][https://creativecommons.org/licenses/by-sa/4.0/]
+[知识共享署名-相同方式共享 4.0 国际许可协议（CC BY-SA 4.0）](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ### 备注
 
