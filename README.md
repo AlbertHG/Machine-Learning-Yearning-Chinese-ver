@@ -13,7 +13,7 @@
 
 对于书名"Machine Learning Yearning"，我将其翻译为《机器学习要领》，希望能表达出NG编写这本书的目的:
 
-- focused not on teaching you ML algorithms, but on how to make ML algorithms work.
+> focused not on teaching you ML algorithms, but on how to make ML algorithms work.
 
 经验即要领，同时单词“yearning”读音和“要领”相似，故以此名之。
 
