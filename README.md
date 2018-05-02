@@ -86,7 +86,12 @@
 英文原稿
 -------
 
-当前更新到22节，详见目录"Machine Learning Yearning-Draft"
+当前更新到22节，详见文件夹："Machine Learning Yearning-Draft"
+
+致谢
+---------
+
+感谢蒋兆函同学为翻译提供的建议！
 
 License
 -------
