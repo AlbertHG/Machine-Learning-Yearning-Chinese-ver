@@ -6,7 +6,7 @@
 
 更好的阅读体验，请移步本人博客：[博客传送门](https://alberthg.github.io/tags/#maching%20learning%20yearning)
 
-关于本书的英文原稿，NG还没有完全放出，目前更新到第22节。
+关于本书的英文原稿，NG还没有完全放出，目前更新到第27节。
 
 官网传送门：[http://www.mlyearning.org/](http://www.mlyearning.org/)
 
@@ -24,9 +24,9 @@
 在原稿中，NG把每一个主题都浓缩到1-2页的阅读量，是非常精炼的，根据目前的发送稿来看：
 
 - 1-4：内容没有大标题，我就自作主张的把这几节内容归纳到为"Introduction"；
-- 5-12，以"Setting up development and test sets"作大标题；
+- 5-12：以"Setting up development and test sets"作大标题；
 - 13-19：以"Basic Error Analysis"作大标题；
-- 20-？：以"Bias and Variance"作大标题；
+- 20-27：以"Bias and Variance"作大标题；
 
 翻译的水平有限(如有错误，请指出)，而且有些地方是在经过自己的理解之后并尽量遵照原文进行翻译，只是希望尽可能的读起来通顺。
 
@@ -81,12 +81,22 @@
 
 [22、比较最优误差](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter22.md)
 
+[23、解决方差和偏差](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter23.md)
+
+[24、权衡偏差和方差](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter24.md)
+
+[25、减少可避免偏差的技巧](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter25.md)
+
+[26、在训练集上的误差分析](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter26.md)
+
+[27、减少方差的技巧](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter27.md)
+
 🚧🚧🚧未完待续！！
 
 英文原稿
 -------
 
-当前更新到22节，详见文件夹："Machine Learning Yearning-Draft"
+当前更新到27节，详见文件夹："Machine Learning Yearning-Draft"
 
 致谢
 ---------
