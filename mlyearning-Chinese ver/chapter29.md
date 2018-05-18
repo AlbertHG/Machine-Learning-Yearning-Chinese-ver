@@ -10,7 +10,7 @@
 
 让我们将训练误差曲线绘制到之前的那张图上：
 
-![](https://raw.githubusercontent.com/AlbertHG/alberthg.github.io/master/makedown_img/20180422mlyearning/14.png)
+![](https://raw.githubusercontent.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/master/md_images/14.png)
 
 你可以看到蓝色的“训练误差曲线”是随着训练集样本量的增大而增大的。此外，你的算法的在训练集上的表现通常要好于开发集，因此，红色的开发及误差曲线一般来说会严格地高于训练误差曲线。
 

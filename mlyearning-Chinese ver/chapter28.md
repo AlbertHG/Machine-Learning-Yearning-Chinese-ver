@@ -4,7 +4,7 @@
 
 学习曲线以你的训练样本的数量为横轴，误差为纵轴。要绘制它，你可以使用不同的训练集大小来重复运行算法，得出在不同训练集大小下的开发集误差。比如，你总共有1000 个样本，则可以让算法分别在100、200、300、……、1000大小的样本尺寸下进行训练，然后绘制出在训练集大小不断增大下的开发集误差的变化趋势，如下图：
 
-![](https://raw.githubusercontent.com/AlbertHG/alberthg.github.io/master/makedown_img/20180422mlyearning/11.png)
+![](https://raw.githubusercontent.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/master/md_images/11.png)
 
 随着训练集大小的增加，开发集误差在下降。
 
@@ -16,13 +16,13 @@
 
 所以，将期望的表现水平添加到你的学习曲线中：
 
-![](https://raw.githubusercontent.com/AlbertHG/alberthg.github.io/master/makedown_img/20180422mlyearning/12.png)
+![](https://raw.githubusercontent.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/master/md_images/12.png)
 
 在图中，可以管观察红色的开发误差曲线，从而猜测出可以通过添加更多的数据来算法达到期望的性能水平。在上图展示的例子中，通过加倍训练集尺寸来促使学习算法朝着期望的性能改进看起来是合理的。
 
 但是，假设开发误差曲线已经被“压平了(Plateaued)”，下图，你就能够立刻反应过来，继续添加数据已经不能够帮助你的算法往目标逼近了：
 
-![](https://raw.githubusercontent.com/AlbertHG/alberthg.github.io/master/makedown_img/20180422mlyearning/13.png)
+![](https://raw.githubusercontent.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/master/md_images/13.png)
 
 通过观察学习曲线可能会帮助你避免浪费几个月的时间来搜集大量的训练数据，而之后才意识到这对于优化性能没有帮助。
 

@@ -2,7 +2,7 @@
 
 假设你的开发误差曲线看起来是这样的：
 
-![](https://raw.githubusercontent.com/AlbertHG/alberthg.github.io/master/makedown_img/20180422mlyearning/15.png)
+![](https://raw.githubusercontent.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/master/md_images/15.png)
 
 我们之前说过，如果你的开发误差曲线平稳，也就是说，无法通过添加数据来让算法达到期望的性能。
 
@@ -10,7 +10,7 @@
 
 假设我们将训练误差曲线添加到该图中并得到以下结果：
 
-![](https://raw.githubusercontent.com/AlbertHG/alberthg.github.io/master/makedown_img/20180422mlyearning/16.png)
+![](https://raw.githubusercontent.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/master/md_images/16.png)
 
 现在，你可以绝对确定，添加更多的数据本身是无效的。为什么？记住我们下面提到两个结论：
 
