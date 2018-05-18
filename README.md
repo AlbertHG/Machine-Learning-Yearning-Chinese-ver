@@ -27,7 +27,7 @@
 - 5-12：以"Setting up development and test sets"作大标题；
 - 13-19：以"Basic Error Analysis"作大标题；
 - 20-27：以"Bias and Variance"作大标题；
-- 30-？：以"Learning curves"作大标题；
+- 28-30：以"Learning curves"作大标题；
 
 翻译的水平有限(如有错误，请指出)，而且有些地方是在经过自己的理解之后并尽量遵照原文进行翻译，只是希望尽可能的读起来通顺。
 
