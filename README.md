@@ -6,7 +6,7 @@
 
 更好的阅读体验，请移步本人博客：[博客传送门](https://alberthg.github.io/tags/#maching%20learning%20yearning)
 
-关于本书的英文原稿，NG还没有完全放出，目前更新到第30节。
+关于本书的英文原稿，NG还没有完全放出，目前更新到第~~30~~ 32节。
 
 官网传送门：[http://www.mlyearning.org/](http://www.mlyearning.org/)
 
@@ -27,11 +27,9 @@
 - 5-12：以"Setting up development and test sets"作大标题；
 - 13-19：以"Basic Error Analysis"作大标题；
 - 20-27：以"Bias and Variance"作大标题；
-- 28-30：以"Learning curves"作大标题；
+- 28-32：以"Learning curves"作大标题；
 
 翻译的水平有限(如有错误，请指出)，而且有些地方是在经过自己的理解之后并尽量遵照原文进行翻译，只是希望尽可能的读起来通顺。
-
-
 
 翻译稿
 -------
@@ -98,12 +96,16 @@
 
 [30、解读学习曲线：高偏差](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter30.md)
 
+[31、解读学习曲线：其他情况](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter31.md)
+
+[32、绘制学习曲线](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter32.md)
+
 🚧🚧🚧未完待续！！
 
 英文原稿
 -------
 
-当前更新到30节，详见文件夹："mlyearning-Draft"
+当前更新到32节，详见文件夹："mlyearning-Draft"
 
 致谢
 ---------
