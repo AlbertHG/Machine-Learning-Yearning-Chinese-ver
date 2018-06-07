@@ -6,7 +6,7 @@
 
 更好的阅读体验，请移步本人博客：[博客传送门](https://alberthg.github.io/tags/#maching%20learning%20yearning)
 
-关于本书的英文原稿，NG还没有完全放出，目前更新到第 ~~32~~ 35节。
+关于本书的英文原稿，NG还没有完全放出，目前更新到第 ~~35~~ 39节。
 
 官网传送门：[http://www.mlyearning.org/](http://www.mlyearning.org/)
 
@@ -21,14 +21,15 @@
 
 经验即要领，同时单词“yearning”读音和“要领”相似，故以此名之。
 
-在原稿中，NG把每一个主题都浓缩到1-2页的阅读量，是非常精炼的，根据目前的发送稿来看：
+在原稿中，NG把每一个主题都浓缩到 1-2 页的阅读量，是非常精炼的，根据目前的发送稿来看：
 
-- 1-4：内容没有大标题，我就自作主张的把这几节内容归纳到为"Introduction"；
-- 5-12：以"Setting up development and test sets"作大标题；
-- 13-19：以"Basic Error Analysis"作大标题；
-- 20-27：以"Bias and Variance"作大标题；
-- 28-32：以"Learning curves"作大标题；
-- 33-35：以"Comparing to human-level performance"作大标题；
+- 1-4：绪论 "Introduction"；
+- 5-12：配置开发集和训练集 "Setting up development and test sets"；
+- 13-19：基本误差分析 "Basic Error Analysis"；
+- 20-27：偏差和方差 "Bias and Variance"；
+- 28-32：学习曲线 "Learning curves"；
+- 33-35：比较人类水平表现 "Comparing to human-level performance"；
+- 36-39：不同分布下的训练和测试 "Training and testing on different distributions"；
 
 翻译的水平有限(如有错误，请指出)，而且有些地方是在经过自己的理解之后并尽量遵照原文进行翻译，只是希望尽可能的读起来通顺。
 
@@ -107,12 +108,20 @@
 
 [35、超越人类表现水平](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter35.md)
 
+[36、当你不得不在不同分布中进行训练和测试](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter36.md)
+
+[37、如何决定是否使用所有数据](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter37.md)
+
+[38、如何决定是否包含不一致的数据](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter38.md)
+
+[39、数据加权](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter39.md)
+
 🚧🚧🚧未完待续！！
 
 英文原稿
 -------
 
-当前更新到35节，详见文件夹："mlyearning-Draft"
+当前更新到39节，详见文件夹："mlyearning-Draft"
 
 致谢
 ---------
