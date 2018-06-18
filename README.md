@@ -1,27 +1,27 @@
 # Machine Learning Yearning
 
-本项目是Andrew NG的关于机器学习策略的工具书的中文翻译稿源文件！
+本项目是 Andrew NG 的关于机器学习策略的工具书的中文翻译稿源文件！
 
 *欢迎Star*
 
 更好的阅读体验，请移步本人博客：[博客传送门](https://alberthg.github.io/tags/#maching%20learning%20yearning)
 
-关于本书的英文原稿，NG还没有完全放出，目前更新到第 ~~35~~ 39节。
+关于本书的英文原稿，Andrew NG 还没有完全放出，目前更新到第 ~~39~~ 43节。
 
 官网传送门：[http://www.mlyearning.org/](http://www.mlyearning.org/)
 
 目的
 -------
 
-根据NG的介绍，本书重点不是ML的算法，而是如何使ML算法发挥作用。琳琅满目的ML算法就像是工具箱里边的各种工具一样，这本书则是教会人们如何使用这些工具。
+根据NG的介绍，本书重点不是 ML 的算法，而是如何使 ML 算法发挥作用。琳琅满目的ML算法就像是工具箱里边的各种工具一样，这本书则是教会人们如何使用这些工具。
 
-对于书名"Machine Learning Yearning"，我将其翻译为《机器学习要领》，希望能表达出NG编写这本书的目的:
+对于书名《Machine Learning Yearning》，我将其翻译为《机器学习要领》，希望能表达出 Andrew NG 编写这本书的目的:
 
 > focused not on teaching you ML algorithms, but on how to make ML algorithms work.
 
-经验即要领，同时单词“yearning”读音和“要领”相似，故以此名之。
+经验即要领，同时单词「yearning」读音和「要领」相似，故以此名之。
 
-在原稿中，NG把每一个主题都浓缩到 1-2 页的阅读量，是非常精炼的，根据目前的发送稿来看：
+在原稿中，Andrew NG 把每一个主题都浓缩到 1-2 页的阅读量，是非常精炼的，根据目前的发送稿来看：
 
 - 1-4：绪论 "Introduction"；
 - 5-12：配置开发集和训练集 "Setting up development and test sets"；
@@ -29,9 +29,9 @@
 - 20-27：偏差和方差 "Bias and Variance"；
 - 28-32：学习曲线 "Learning curves"；
 - 33-35：比较人类水平表现 "Comparing to human-level performance"；
-- 36-39：不同分布下的训练和测试 "Training and testing on different distributions"；
+- 36-43：不同分布下的训练和测试 "Training and testing on different distributions"；
 
-翻译的水平有限(如有错误，请指出)，而且有些地方是在经过自己的理解之后并尽量遵照原文进行翻译，只是希望尽可能的读起来通顺。
+翻译的水平有限（如有错误，请指出），而且有些地方是在经过自己的理解之后并尽量遵照原文进行翻译，只是希望尽可能的读起来通顺。
 
 翻译稿
 -------
@@ -116,19 +116,25 @@
 
 [39、数据加权](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter39.md)
 
+[40、从训练集到开发集的泛化](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter40.md)
+
+[41、辨别偏差、方差和数据不匹配导致的误差](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter41.md)
+
+[42、解决数据不匹配的问题](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter42.md)
+
+[43、人工合成数据](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter43.md)
+
 🚧🚧🚧未完待续！！
 
 英文原稿
 -------
 
-当前更新到39节，详见文件夹："mlyearning-Draft"
+当前更新到 43 节，详见文件夹：「mlyearning-Draft」
 
 致谢
 ---------
 
 感谢蒋兆函同学为翻译提供的建议！
-
-感谢荟荟同学为翻译提供的建议！
 
 License
 -------
@@ -138,4 +144,4 @@ License
 备注
 -------
 
-GitHub的README.md文件不提供LaTeX公式解析，可使用chrome浏览器插件[GitHub with MathJax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima)
+GitHub 的 README.md 文件不提供 LaTeX 公式解析，可使用 Chrome 浏览器插件[GitHub with MathJax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima)
