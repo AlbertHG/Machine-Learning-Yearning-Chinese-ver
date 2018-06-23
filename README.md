@@ -136,7 +136,7 @@
 英文原稿
 -------
 
-当前更新到 46 节，详见文件夹：「mlyearning-Draft」(https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/tree/master/mlyearning-Draft)
+当前更新到 46 节，详见文件夹：[「mlyearning-Draft」](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/tree/master/mlyearning-Draft)
 
 - 「Ng_MLY01.pdf」：1-14节
 - 「Ng_MLY02.pdf」：15-19节
