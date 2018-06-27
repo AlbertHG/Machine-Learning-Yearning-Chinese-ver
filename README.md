@@ -6,7 +6,7 @@
 
 更好的阅读体验，请移步本人博客：[博客传送门](https://alberthg.github.io/tags/#maching%20learning%20yearning)
 
-关于本书的英文原稿，Andrew NG 还没有完全放出，目前更新到第 ~~43~~ 46节。
+关于本书的英文原稿，Andrew NG 还没有完全放出，目前更新到第 ~~46~~ 49节。
 
 官网传送门：[http://www.mlyearning.org/](http://www.mlyearning.org/)
 
@@ -31,6 +31,7 @@
 - 33-35：比较人类水平表现 "Comparing to human-level performance"；
 - 36-43：不同分布下的训练和测试 "Training and testing on different distributions"；
 - 44-46：调试推理算法 "Debugging inference algorithms"；
+- 47-48：端到端的深度学习 "End-to-end deep learning"；
 
 翻译的水平有限（如有错误，请指出），而且有些地方是在经过自己的理解之后并尽量遵照原文进行翻译，只是希望尽可能的读起来通顺。
 
@@ -131,12 +132,18 @@
 
 [46、强化学习的例子](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter46.md)
 
+[47、端到端学习技术的兴起](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter47.md)
+
+[48、更多的端到端学习的例子](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter48.md)
+
+[49、端到端学习的优点和缺点](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/blob/master/mlyearning-Chinese%20ver/chapter49.md)
+
 🚧🚧🚧未完待续！！
 
 英文原稿
 -------
 
-当前更新到 46 节，详见文件夹：[「mlyearning-Draft」](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/tree/master/mlyearning-Draft)
+当前更新到 49 节，详见文件夹：[「mlyearning-Draft」](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver/tree/master/mlyearning-Draft)
 
 - 「Ng_MLY01.pdf」：1-14节
 - 「Ng_MLY02.pdf」：15-19节
@@ -148,6 +155,7 @@
 - 「Ng_MLY08.pdf」：36-39节
 - 「Ng_MLY09.pdf」：40-43节
 - 「Ng_MLY10.pdf」：44-46节
+- 「Ng_MLY11.pdf」：47-49节
 
 致谢
 ---------
@@ -162,4 +170,4 @@ License
 备注
 -------
 
-GitHub 的 README.md 文件不提供 LaTeX 公式解析，可使用 Chrome 浏览器插件[GitHub with MathJax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima)
+GitHub 的 README.md 文件不提供 LaTeX 公式解析，可使用 Chrome 浏览器插件 [GitHub with MathJax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima)
