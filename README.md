@@ -23,15 +23,15 @@
 
 在原稿中，Andrew NG 把每一个主题都浓缩到 1-2 页的阅读量，是非常精炼的，根据目前的发送稿来看：
 
-- 1-4：绪论 "Introduction"；
-- 5-12：配置开发集和训练集 "Setting up development and test sets"；
-- 13-19：基本误差分析 "Basic Error Analysis"；
-- 20-27：偏差和方差 "Bias and Variance"；
-- 28-32：学习曲线 "Learning curves"；
-- 33-35：比较人类水平表现 "Comparing to human-level performance"；
-- 36-43：不同分布下的训练和测试 "Training and testing on different distributions"；
-- 44-46：调试推理算法 "Debugging inference algorithms"；
-- 47-52：端到端的深度学习 "End-to-end deep learning"；
+- 1-4：绪论 「Introduction」；
+- 5-12：配置开发集和训练集 「Setting up development and test sets」；
+- 13-19：基本误差分析 「Basic Error Analysis」；
+- 20-27：偏差和方差 「Bias and Variance」；
+- 28-32：学习曲线 「Learning curves」；
+- 33-35：比较人类水平表现 「Comparing to human-level performance」；
+- 36-43：不同分布下的训练和测试 「Training and testing on different distributions」；
+- 44-46：调试推理算法 「Debugging inference algorithms」；
+- 47-52：端到端的深度学习 「End-to-end deep learning」；
 
 翻译的水平有限（如有错误，请指出），而且有些地方是在经过自己的理解之后并尽量遵照原文进行翻译，只是希望尽可能的读起来通顺。
 
