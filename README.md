@@ -8,7 +8,7 @@
 
 本书的英文原稿全文已于2018年9月29日全部推送完毕，感谢 Andrew NG。
 
-官网传送门：[http://www.mlyearning.org/](http://www.mlyearning.org/)
+官网传送门：[https://www.deeplearning.ai/](https://www.deeplearning.ai/)  -OR-  [http://www.mlyearning.org/](http://www.mlyearning.org/)
 
 目的
 -------
